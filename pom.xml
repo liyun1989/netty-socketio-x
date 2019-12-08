@@ -12,6 +12,7 @@
         <module>socketio-actor</module>
         <module>socketio-event-handler</module>
         <module>socketio-spring-boot-support</module>
+        <module>socketio-metrics</module>
     </modules>
 
 
